@@ -9,7 +9,7 @@ Esse número pode ser informado através de qualquer entrada de sua preferência
 """
 
 
-numero = 28
+numero = 18
 
 def pertence_fibonacci(numero):
     a, b = 0, 1
