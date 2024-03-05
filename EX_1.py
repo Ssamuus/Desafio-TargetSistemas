@@ -12,6 +12,6 @@ imprimir(SOMA);
 
 Ao final do processamento, qual será o valor da variável SOMA?
 
-
+z
 -Resposta: O valor será 91.
 """
